@@ -1,4 +1,4 @@
-export default class App {
+export default class Greeter {
   sayHello(name) {
     return `Hello ${name}!`;
   }
