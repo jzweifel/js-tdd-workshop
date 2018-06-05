@@ -24,10 +24,10 @@
    - Write a small amount of test code, watch the test fail. Ensure that it fails as expected!
  - Green
    - Write a small amount of implementation code. Only enough to pass the test! Don't worry about design or elegance
-     - DRY
-     - YAGNI
  - Refactor
    - improve the code without breaking any of the existing tests. Here we focus on design and elegance
+     - DRY
+     - YAGNI
  - Repeat!
  - SMALL. INCREMENTS.
 
