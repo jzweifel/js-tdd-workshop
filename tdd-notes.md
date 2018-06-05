@@ -31,9 +31,9 @@
  - Repeat!
  - SMALL. INCREMENTS.
 
-### Who?
+## Who?
  - Kent Beck
    - Extreme Programming Explained
- - Uncle Bob (Bob Martin
+ - Uncle Bob (Bob Martin)
    - http://blog.cleancoder.com/
  - and many more
